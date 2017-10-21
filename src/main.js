@@ -6,11 +6,11 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-  routes:route
+  routes:routes
 })
 
 new Vue({
   el: '#app',
-  router:route,
+  router:router,
   render: h => h(App)
 })

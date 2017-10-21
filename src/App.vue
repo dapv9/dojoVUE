@@ -5,8 +5,6 @@
   <router-link to="/Contacto">Contacto </router-link>
   <router-view> </router-view>
 </section>
-
-  </div>
 </template>
 
 <script>
