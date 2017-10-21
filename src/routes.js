@@ -3,5 +3,5 @@ import contacto from './components/contacto.vue';
 
 export consult route = [
   {path: '/', component:home}
-  {path: '/contacto', component:contacto}
+  {path: '/contacto', component: contacto}
 ]
